@@ -2,7 +2,7 @@
 
 > **1K $0.015** · model ID `grok-imagine-2.0-ext` · **rekayasa balik/reverse-engineered** route.
 
-**[Lihat harga](https://go.apimart.ai/k-bd50ce)** · **[Dapatkan kunci API](https://go.apimart.ai/k-2731e5)**
+**[Lihat harga](https://go.apimart.ai/k-001312)** · **[Dapatkan kunci API](https://go.apimart.ai/k-2731e5)**
 
 grok-imagine-2.0-ext-reverse-api-id adalah rute **rekayasa balik** untuk Grok Imagine 2.0 Ext: ID panggilan `grok-imagine-2.0-ext`, berjalan paralel dengan rute resmi (`grok-imagine-image-2.0`) dengan harga satuan lebih rendah.
 
